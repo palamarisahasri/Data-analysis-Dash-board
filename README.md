@@ -3,6 +3,7 @@ Sales Insights Dashboard Using Power BI and SQL
 To analyze sales performance across regions, products, and customers using Power BI. The project covers the end-to-end pipeline from data cleaning and transformation .
 
 #Data USED 
+
 <a herf = "https://github.com/palamarisahasri/Data-analysis-Dash-board/blob/main/db_dump.sql">
 
 📊 Key KPIs (Questions Answered)
@@ -19,6 +20,7 @@ What are the currency-wise impacts on total sales?
 How do brick-and-mortar vs e-commerce customers compare?
 
 #Dash board Interaction
+
 <a herf ="https://github.com/palamarisahasri/Data-analysis-Dash-board/blob/main/sales%20insights%20power%20BI%20project.pbix">
 
 ⚙️ Project Process –
